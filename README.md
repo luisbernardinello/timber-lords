@@ -1,6 +1,6 @@
 # Timber Lords
 
-Timber Lords is an arcade-style game where you play as a lumberjack chopping down an endless tree. Test your reflexes and timing as you avoid branches while trying to achieve the highest score possible!
+Timber Lords is an arcade-style game made with Raylib, where you play as a lumberjack chopping down an endless tree. Test your reflexes and timing as you avoid branches while trying to achieve the highest score possible!
 
 # How to play
 
